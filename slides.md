@@ -112,8 +112,9 @@ background: '/images/evan_you_conference.png'
 
 <img src="/images/evan_you_conference_long.jpeg" />
 
-<!-- other BDFLs: Guido Van Rossum Python, Linus Torvalds, ...-->
-<!-- He shifted to fully working on Vue when his Patreon checks got to 4K USD a month, today he is aroun d the 40KUSD a Month-->
+<!-- Other BDFLs: Guido Van Rossum Python, Linus Torvalds
+
+He shifted to fully working on Vue when his Patreon checks got to 4K USD a month, today he is aroun d the 40KUSD a Month-->
 
 ---
 layout: center
@@ -161,6 +162,16 @@ layout: center
   transform: scale(0);
 }
 </style>
+
+---
+
+# Vue now
+
+<div class="flex flex-wrap justify-center">
+  <img class="m-5 max-h-140px" src="/public/images/git_angular.png" />
+  <img class="m-5 max-h-140px" src="/public/images/git_vue.png" />
+  <img class="m-5 max-h-140px" src="/public/images/git_react.png" />
+</div>
 
 ---
 
@@ -230,8 +241,6 @@ layout: center
   <img v-after class="max-h-110px " src="/public/images/versions/0.11.jpeg"/>
 </div>
 
-
-
 <style>
 .slidev-vclick-target {
   transition: all 1000ms ease 10ms
@@ -272,14 +281,12 @@ layout: center
 - Started as a few developers Evan You contacted directly after contributing to the project for a while
 - Contributing patterns and guidelines were developed around Vue 1, community events led by Evan, Anthony Fu and eventually other members of the industry like Sarah Drasner
 - Evan You as an active community developer, created chapters for US and China and eventually the whole world
-- Currently there are at least 2 major world wide events happenning each year, Vue Amsterdam and the State of the Vuenion.
 - Pieces of the ecosystem, such as Pinia and Vite have become their own community beacons
 
----
-
-# Usage through the years
-
----
+<div class="flex justify-center">
+  <img class="max-h-80" src="/public/images/vueamsterdam_one.png" />
+  <img class="max-h-80" src="/public/images/vueamsterdam_2.jpeg" />
+</div>
 
 <!-- Links -->
 ---
@@ -288,13 +295,11 @@ src: ./links.md
 
 ---
 
-stufff
+
+
+<div class="h-full w-full flex justify-center place-content-center">
+  <span>Q&A</span>
+  <h1 class="text-2xl">And Thank You!</h1>
+</div>
 
 <logos-vue class="3x1 animate-ping" />
-
-
-
-<!-- ![Naruto](/images/0.9-Animatrix.jpeg)
-![Naruto](/images/2.7-Naruto.webp)
-![Naruto](/images/2.7-Naruto.webp)
-![Naruto](/images/2.7-Naruto.webp) -->
